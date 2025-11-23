@@ -1,3 +1,4 @@
+package InfiniteLoop;
 // Infinite loop question
 
 public class Ques7 {

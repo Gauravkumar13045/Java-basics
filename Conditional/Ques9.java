@@ -1,3 +1,4 @@
+package Conditional;
 // prime number check
 import java.util.Scanner;
 
@@ -15,7 +16,7 @@ public class Ques9 {
                     isprime = false;
                     break;
                 }
-            }
+            }  
         }
 
         if(isprime){
